@@ -14,3 +14,6 @@ for line in fh:
         sum = sum + int(number)
 
 print(sum)
+"""
+Output: 362208
+"""
